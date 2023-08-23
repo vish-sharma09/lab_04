@@ -1,1 +1,3 @@
 # lab_04
+
+# A newline added inside VS Code....
